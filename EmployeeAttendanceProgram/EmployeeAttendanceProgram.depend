@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678516271 source:d:\projectdump\employee attendance program\employeeattendanceprogram\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+
